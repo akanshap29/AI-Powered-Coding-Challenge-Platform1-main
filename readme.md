@@ -1,38 +1,16 @@
-## Online Coding Assessment Platform
+## AI-Driven Coding Challenge Platform
 
-This is an online coding assessment platform built using the MERN stack. It allows companies to create an account and organize their hiring tests on the platform. Users can code in JavaScript, and we plan to add more languages in the future.
+This platform is designed to revolutionize coding assessments by integrating AI for dynamic challenge generation and real-time evaluation. Companies can create customized coding tests tailored to candidate skill levels, enabling efficient and accurate assessment. The platform currently supports JavaScript, with plans to expand language support in the future.
 
-## Features
+## Core Features
 
-- Company accounts
-- Test creation and management
-- JavaScript coding environment
-- Real-time coding results
-- User authentication and authorization
-- Responsive design
+- Dynamic Challenge Generation: AI-driven algorithms generate coding problems in real-time, adapting to each user's expertise.
+- Instant AI Evaluation: Submitted solutions are assessed instantly for accuracy, performance, and code quality.
+- Live Leaderboard: Real-time ranking of participants based on task completion and efficiency.
+- Immediate Feedback: Participants receive instant feedback to help improve their coding solutions.
 
 ## Technologies
 
-- MongoDB
-- Express.js
-- React.js
-- Node.js
-- HTML/CSS
-- JavaScript
-
-## Usage
-
-To use the platform, follow these steps:
-
-1. Create a company account.
-2. Create a test and add questions.
-3. Share the test link with candidates.
-4. Candidates take the test and submit their solutions.
-5. Review the results in real-time.
-
-## TODO
-
-- Add more programming languages (Python, Java, etc.)
-- Add email notifications
-
+Backend: Node.js, Express.js, MongoDB
+Frontend: React.js, HTML/CSS, JavaScript
 
